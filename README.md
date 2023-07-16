@@ -31,7 +31,7 @@
 <div> 
  <a href="mailto:braynnermarques@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
  <a href="https://api.whatsapp.com/send?phone=+5564993209973&text=Ol%C3%A1!" target="_blank"><img src="https://img.shields.io/badge/-whatsapp-008000?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
- <a href="https://www.linkedin.com/in/braynner-marques-ribeiro-de-oliveira-88142b256/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://www.linkedin.com/in/braynner/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://www.frontendmentor.io/profile/BraynnerM" target="_blank"><img src="https://img.shields.io/badge/-FRONTEND_MENTOR-FAFAFA?style=for-the-badge&logo=frontendmentor&logoColor=gray" target="_blank"></a>  
 
   ![Snake animation](https://github.com/BraynnerM/BraynnerM/blob/output/github-contribution-grid-snake.svg)
